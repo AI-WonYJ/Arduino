@@ -5,19 +5,18 @@
 <p align="center">2023 SSCC PR Booth &nbsp
   
 # BUZZ WIRE     
-__*: electric maze*__ made with <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/>
+__*electric maze*__ ⚡ made with <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
 
 ## Description
 
 With this program, you can make BUZZ WIRE, the electric maze.
 
-## Running the app
+## Sequence
 
 ```bash
-# Let's Start!
-$ BuzzWire_Main.ino
 $ NeoPixel_bar.ino
+$ BuzzWire_Main.ino
 $ TM1637_Timer.ino
 ```
         
